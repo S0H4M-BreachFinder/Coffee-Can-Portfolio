@@ -88,3 +88,26 @@ Users should conduct their own research and consult with a qualified financial a
 3. Data Persistence: Adding functionality to save results to a file could be beneficial.
 4. Configuration: Moving hardcoded values (like ROCE/ROE thresholds) to a config file would improve flexibility.
 5. Additional Metrics: The analysis could be expanded to include more financial metrics for a more comprehensive evaluation.
+
+
+### Web Scraping Disclaimer
+
+This script includes functionality for web scraping to gather financial data. Please be aware of the following:
+
+1. Legal Considerations: Web scraping may be subject to legal restrictions. Always review and comply with the terms of service of any website you're scraping.
+
+2. Ethical Use: Respect the websites you're scraping. Avoid overloading their servers with excessive requests.
+
+3. Data Ownership: The data you scrape may be protected by copyright. Ensure you have the right to use the data as intended.
+
+4. Website Changes: Websites can change their structure at any time, which may break the scraping functionality of this script.
+
+5. IP Blocking: Aggressive scraping may result in your IP address being blocked by the target website.
+
+6. Alternative APIs: Where possible, consider using official APIs provided by financial data services instead of web scraping.
+
+7. Responsibility: Users of this script are solely responsible for ensuring their use of the web scraping functionality is legal, ethical, and in compliance with all applicable terms of service.
+
+By using the web scraping features of this script, you acknowledge these considerations and agree to use this functionality responsibly.
+
+
